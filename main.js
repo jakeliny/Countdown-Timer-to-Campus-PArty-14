@@ -3,8 +3,8 @@ const minute = second * 60;
 const hour = minute * 60;
 const day = hour * 24;
 
-const cpbr14Day = new Date("Nov 11, 2022 15:37:25").getTime();
-const loveDay = new Date("Nov 04, 2022 15:37:25").getTime();
+const cpbr14Day = new Date("Nov 11, 2022 12:00:00").getTime();
+const loveDay = new Date("Nov 04, 2022 21:15:00").getTime();
 
 const easterEgg = document.getElementById('easter-egg');
 const cpbr14 = document.getElementById('cpbr14');
